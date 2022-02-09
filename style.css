@@ -30,6 +30,7 @@ html {
   border-radius: 30px;
   width: 24rem;
   height: 35rem;
+  box-shadow: 0 3px 50px #9f9f9f;
 }
 
 .card-img {
