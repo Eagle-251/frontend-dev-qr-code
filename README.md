@@ -6,6 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Links]()
 - [Process](#processProcess)
   - [Built with](#built-with)
 
@@ -15,6 +16,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./images/screenshot.png)
 
+## Links
+
+- [Demo](https://dev.susflatnine.xyz/frontend-dev-qr-code/)
+- [Code](https://github.com/Eagle-251/frontend-dev-qr-code)
+
 ## Process
 
 I wanted to focus on improving my CSS and knowledge of the Bootstrap library. I found using bootstrap components as a starting point very useful and it made the whole design process much quicker.
@@ -22,7 +28,7 @@ I wanted to focus on improving my CSS and knowledge of the Bootstrap library. I 
 ### Built with
 
 - Semantic HTML5 markup
+- Bootstrap 5.1.3
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
