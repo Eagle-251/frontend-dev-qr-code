@@ -19,6 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Links
 
 - [Demo](https://dev.susflatnine.xyz/frontend-dev-qr-code/)
+- [GitHub pages Demo](https://eagle-251.github.io/frontend-dev-qr-code/)
 - [Code](https://github.com/Eagle-251/frontend-dev-qr-code)
 
 ## Process
